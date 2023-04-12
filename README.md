@@ -4,7 +4,7 @@ The CNN model for transcriptome data mining.
 > These are the codes for the **Comparative analysis of tissue-specific genes in maize based on machine learning models: CNN performs technically best, LightGBM performs biologically sound** project
 > 
 
-## Environment and Packages Requirement
+## Environment requirement
 
 ### Environment
 
@@ -14,7 +14,6 @@ The CNN model for transcriptome data mining.
 
 GPU is recommended for boosting the CNN model training.
 
-### Packages
 
 ## Usage
 
